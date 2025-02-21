@@ -34,8 +34,8 @@ Here is a demo video of the Zomato Landing Page in action:
 ![Alt Text](./assets/demo.gif)
 ## Responsiveness
 
-<div style="display:flex; justify-content:center; align-items:center;gap:1rem">
-<img src="./assets/ipad-screenshot-removebg-preview.png" alt="Spoon and Fork" width="200px" ><img src="./assets/Galaxy-S21-Ultra-zomato-food-ordering-app.netlify.app.png" alt="Spoon and Fork" width="100px" ></div>
+
+<img src="./assets/responsiveness.png" alt="desktop tab and mobile view" >
 ---
 
 Thank you for visiting the Zomato Landing Page project! If you have any questions or feedback, feel free to reach out.
