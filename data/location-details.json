@@ -1,0 +1,110 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "Delhi University-GTB Nagar",
+            "place_count": "203 places"
+        },
+        {
+            "id": 2,
+            "name": "Indrapuram",
+            "place_count": "891 places"
+        },
+        {
+            "id": 3,
+            "name": "Vasant Kunj",
+            "place_count": "304 places"
+        },
+        {
+            "id": 4,
+            "name": "Greater Kailash (GK1)",
+            "place_count": "112 places"
+        },
+        {
+            "id": 5,
+            "name": "Chanakyapuri",
+            "place_count": "122 places"
+        },
+        {
+            "id": 6,
+            "name": "Rohini",
+            "place_count": "1392 places"
+        },
+        {
+            "id": 7,
+            "name": "Janpath",
+            "place_count": "68 places"
+        },
+        {
+            "id": 8,
+            "name": "Hauz Khas Village",
+            "place_count": "58 places"
+        },
+        {
+            "id": 10,
+            "name": "Sector 38 Noida",
+            "place_count": "304 places"
+        },
+        {
+            "id": 11,
+            "name": "Janakpuri",
+            "place_count": "508 places"
+        },
+        {
+            "id": 12,
+            "name": "Sector 50",
+            "place_count": "221 places"
+        },
+        {
+            "id": 13,
+            "name": "MG Road",
+            "place_count": "200 places"
+        },
+        {
+            "id": 14,
+            "name": "DLF Phase 3",
+            "place_count": "494 places"
+        },
+        {
+            "id": 15,
+            "name": "Punjabi Bagh",
+            "place_count": "352 places"
+        },
+        {
+            "id": 16,
+            "name": "Netaji Subhash Place",
+            "place_count": "144 places"
+        },
+        {
+            "id": 17,
+            "name": "Malvya Nagar",
+            "place_count": "417 places"
+        },
+        {
+            "id": 18,
+            "name": "Khan Market",
+            "place_count": "58 places"
+        },
+        {
+            "id": 19,
+            "name": "Karol Bagh",
+            "place_count": "386 places"
+        },
+        {
+            "id": 20,
+            "name": "Nehru Place",
+            "place_count": "114 places"
+        },
+        {
+            "id": 21,
+            "name": "Sohna Road",
+            "place_count": "281 places"
+        },
+        {
+            "id": 22,
+            "name": "Greater Kailash (GK2)",
+            "place_count": "121 places"
+        }
+        
+    ]
+}
